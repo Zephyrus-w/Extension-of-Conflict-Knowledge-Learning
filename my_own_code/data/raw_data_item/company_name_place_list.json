@@ -1,0 +1,426 @@
+[
+    {
+        "company": "Apple Inc.",
+        "workplace": "Cupertino, California, USA"
+    },
+    {
+        "company": "Microsoft",
+        "workplace": "Redmond, Washington, USA"
+    },
+    {
+        "company": "Amazon",
+        "workplace": "Seattle, Washington, USA"
+    },
+    {
+        "company": "Google",
+        "workplace": "Mountain View, California, USA"
+    },
+    {
+        "company": "Facebook",
+        "workplace": "Menlo Park, California, USA"
+    },
+    {
+        "company": "Alibaba Group",
+        "workplace": "Hangzhou, China"
+    },
+    {
+        "company": "Samsung Electronics",
+        "workplace": "Suwon, South Korea"
+    },
+    {
+        "company": "Toyota Motor Corporation",
+        "workplace": "Toyota City, Japan"
+    },
+    {
+        "company": "Volkswagen Group",
+        "workplace": "Wolfsburg, Germany"
+    },
+    {
+        "company": "Berkshire Hathaway",
+        "workplace": "Omaha, Nebraska, USA"
+    },
+    {
+        "company": "ExxonMobil",
+        "workplace": "Irving, Texas, USA"
+    },
+    {
+        "company": "Royal Dutch Shell",
+        "workplace": "The Hague, Netherlands"
+    },
+    {
+        "company": "BP",
+        "workplace": "London, United Kingdom"
+    },
+    {
+        "company": "General Motors",
+        "workplace": "Detroit, Michigan, USA"
+    },
+    {
+        "company": "Chevron",
+        "workplace": "San Ramon, California, USA"
+    },
+    {
+        "company": "Intel Corporation",
+        "workplace": "Santa Clara, California, USA"
+    },
+    {
+        "company": "AT&T",
+        "workplace": "Dallas, Texas, USA"
+    },
+    {
+        "company": "PetroChina",
+        "workplace": "Beijing, China"
+    },
+    {
+        "company": "Verizon Communications",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Foxconn",
+        "workplace": "New Taipei City, Taiwan"
+    },
+    {
+        "company": "Glencore",
+        "workplace": "Baar, Switzerland"
+    },
+    {
+        "company": "Daimler AG",
+        "workplace": "Stuttgart, Germany"
+    },
+    {
+        "company": "General Electric",
+        "workplace": "Boston, Massachusetts, USA"
+    },
+    {
+        "company": "Walmart",
+        "workplace": "Bentonville, Arkansas, USA"
+    },
+    {
+        "company": "McKesson Corporation",
+        "workplace": "Irving, Texas, USA"
+    },
+    {
+        "company": "UnitedHealth Group",
+        "workplace": "Minnetonka, Minnesota, USA"
+    },
+    {
+        "company": "CVS Health",
+        "workplace": "Woonsocket, Rhode Island, USA"
+    },
+    {
+        "company": "AmerisourceBergen",
+        "workplace": "Chesterbrook, Pennsylvania, USA"
+    },
+    {
+        "company": "Cardinal Health",
+        "workplace": "Dublin, Ohio, USA"
+    },
+    {
+        "company": "Costco Wholesale",
+        "workplace": "Issaquah, Washington, USA"
+    },
+    {
+        "company": "Kroger",
+        "workplace": "Cincinnati, Ohio, USA"
+    },
+    {
+        "company": "Walgreens Boots Alliance",
+        "workplace": "Deerfield, Illinois, USA"
+    },
+    {
+        "company": "Alphabet Inc.",
+        "workplace": "Mountain View, California, USA"
+    },
+    {
+        "company": "JPMorgan Chase & Co.",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Home Depot",
+        "workplace": "Atlanta, Georgia, USA"
+    },
+    {
+        "company": "Target",
+        "workplace": "Minneapolis, Minnesota, USA"
+    },
+    {
+        "company": "Anthem",
+        "workplace": "Indianapolis, Indiana, USA"
+    },
+    {
+        "company": "Wells Fargo",
+        "workplace": "San Francisco, California, USA"
+    },
+    {
+        "company": "Citigroup",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Valero Energy",
+        "workplace": "San Antonio, Texas, USA"
+    },
+    {
+        "company": "Ford Motor",
+        "workplace": "Dearborn, Michigan, USA"
+    },
+    {
+        "company": "Cigna",
+        "workplace": "Bloomfield, Connecticut, USA"
+    },
+    {
+        "company": "Phillips 66",
+        "workplace": "Houston, Texas, USA"
+    },
+    {
+        "company": "Centene",
+        "workplace": "St. Louis, Missouri, USA"
+    },
+    {
+        "company": "Fannie Mae",
+        "workplace": "Washington, D.C., USA"
+    },
+    {
+        "company": "Bank of America Corp.",
+        "workplace": "Charlotte, North Carolina, USA"
+    },
+    {
+        "company": "Exxon Mobil",
+        "workplace": "Irving, Texas, USA"
+    },
+    {
+        "company": "Apple",
+        "workplace": "Cupertino, California, USA"
+    },
+    {
+        "company": "McKesson",
+        "workplace": "Irving, Texas, USA"
+    },
+    {
+        "company": "Alphabet",
+        "workplace": "Mountain View, California, USA"
+    },
+    {
+        "company": "Costco",
+        "workplace": "Issaquah, Washington, USA"
+    },
+    {
+        "company": "Walgreens",
+        "workplace": "Deerfield, Illinois, USA"
+    },
+    {
+        "company": "General Dynamics",
+        "workplace": "Reston, Virginia, USA"
+    },
+    {
+        "company": "Freddie Mac",
+        "workplace": "Tysons Corner, Virginia, USA"
+    },
+    {
+        "company": "UPS",
+        "workplace": "Atlanta, Georgia, USA"
+    },
+    {
+        "company": "Comcast",
+        "workplace": "Philadelphia, Pennsylvania, USA"
+    },
+    {
+        "company": "IBM",
+        "workplace": "Armonk, New York, USA"
+    },
+    {
+        "company": "Dell Technologies",
+        "workplace": "Round Rock, Texas, USA"
+    },
+    {
+        "company": "Johnson & Johnson",
+        "workplace": "New Brunswick, New Jersey, USA"
+    },
+    {
+        "company": "State Farm Insurance",
+        "workplace": "Bloomington, Illinois, USA"
+    },
+    {
+        "company": "Lowe's",
+        "workplace": "Mooresville, North Carolina, USA"
+    },
+    {
+        "company": "Intel",
+        "workplace": "Santa Clara, California, USA"
+    },
+    {
+        "company": "FedEx",
+        "workplace": "Memphis, Tennessee, USA"
+    },
+    {
+        "company": "MetLife",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "PepsiCo",
+        "workplace": "Purchase, New York, USA"
+    },
+    {
+        "company": "Archer Daniels Midland",
+        "workplace": "Chicago, Illinois, USA"
+    },
+    {
+        "company": "Prudential Financial",
+        "workplace": "Newark, New Jersey, USA"
+    },
+    {
+        "company": "Albertsons",
+        "workplace": "Boise, Idaho, USA"
+    },
+    {
+        "company": "Walt Disney",
+        "workplace": "Burbank, California, USA"
+    },
+    {
+        "company": "Sysco",
+        "workplace": "Houston, Texas, USA"
+    },
+    {
+        "company": "HP Inc.",
+        "workplace": "Palo Alto, California, USA"
+    },
+    {
+        "company": "Humana",
+        "workplace": "Louisville, Kentucky, USA"
+    },
+    {
+        "company": "Lockheed Martin",
+        "workplace": "Bethesda, Maryland, USA"
+    },
+    {
+        "company": "Caterpillar",
+        "workplace": "Deerfield, Illinois, USA"
+    },
+    {
+        "company": "Energy Transfer",
+        "workplace": "Dallas, Texas, USA"
+    },
+    {
+        "company": "Pfizer",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Goldman Sachs Group",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Morgan Stanley",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Cisco Systems",
+        "workplace": "San Jose, California, USA"
+    },
+    {
+        "company": "CitiGroup",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "AIG",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "American Express",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Delta Air Lines",
+        "workplace": "Atlanta, Georgia, USA"
+    },
+    {
+        "company": "Charter Communications",
+        "workplace": "Stamford, Connecticut, USA"
+    },
+    {
+        "company": "New York Life Insurance",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "American Airlines Group",
+        "workplace": "Fort Worth, Texas, USA"
+    },
+    {
+        "company": "Nationwide",
+        "workplace": "Columbus, Ohio, USA"
+    },
+    {
+        "company": "Best Buy",
+        "workplace": "Richfield, Minnesota, USA"
+    },
+    {
+        "company": "Liberty Mutual Insurance Group",
+        "workplace": "Boston, Massachusetts, USA"
+    },
+    {
+        "company": "Merck",
+        "workplace": "Kenilworth, New Jersey, USA"
+    },
+    {
+        "company": "Honeywell International",
+        "workplace": "Charlotte, North Carolina, USA"
+    },
+    {
+        "company": "United Airlines Holdings",
+        "workplace": "Chicago, Illinois, USA"
+    },
+    {
+        "company": "TIAA",
+        "workplace": "New York City, New York, USA"
+    },
+    {
+        "company": "Tyson Foods",
+        "workplace": "Springdale, Arkansas, USA"
+    },
+    {
+        "company": "Oracle",
+        "workplace": "Austin, Texas, USA"
+    },
+    {
+        "company": "Allstate",
+        "workplace": "Northfield Township, Illinois, USA"
+    },
+    {
+        "company": "Massachusetts Mutual Life Insurance",
+        "workplace": "Springfield, Massachusetts, USA"
+    },
+    {
+        "company": "TJX",
+        "workplace": "Framingham, Massachusetts, USA"
+    },
+    {
+        "company": "ConocoPhillips",
+        "workplace": "Houston, Texas, USA"
+    },
+    {
+        "company": "Deere",
+        "workplace": "Moline, Illinois, USA"
+    },
+    {
+        "company": "Tech Data",
+        "workplace": "Clearwater, Florida, USA"
+    },
+    {
+        "company": "Enterprise Products Partners",
+        "workplace": "Houston, Texas, USA"
+    },
+    {
+        "company": "Nike",
+        "workplace": "Beaverton, Oregon, USA"
+    },
+    {
+        "company": "Publix Super Markets",
+        "workplace": "Lakeland, Florida, USA"
+    },
+    {
+        "company": "General Mills",
+        "workplace": "Minneapolis, Minnesota, USA"
+    },
+    {
+        "company": "3M",
+        "workplace": "Maplewood, Minnesota, USA"
+    }
+]
